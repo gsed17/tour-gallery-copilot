@@ -1,6 +1,7 @@
 // Fetch tours from https://course-api.com/react-tours-project using useEffect
 // Store in state: tours, loading, error
 
+
 import { useState, useEffect } from 'react';
 import Gallery from './components/Gallery'; 
 import './App.css';
