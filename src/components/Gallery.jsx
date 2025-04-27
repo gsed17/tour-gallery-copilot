@@ -11,4 +11,5 @@ function Gallery({ tours, removeTour }) {
   );
 }
 
+
 export default Gallery;
